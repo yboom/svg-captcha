@@ -1,4 +1,4 @@
-#Anti-OCR
+# Anti-OCR
 
 This modified fork of svg-captcha can be used to generate image to decrease the probabilty of computer algorithm to recognize and understand the text.
 
